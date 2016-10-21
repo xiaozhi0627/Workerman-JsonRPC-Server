@@ -2,6 +2,7 @@
 /**
  * This file is part of workerman.
  *
+ *1
  * Licensed under The MIT License
  * For full copyright and license information, please see the MIT-LICENSE.txt
  * Redistributions of files must retain the above copyright notice.
@@ -10,7 +11,7 @@
  * @copyright walkor<walkor@workerman.net>
  * @link http://www.workerman.net/
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- */
+ */ 
 use Workerman\Worker;
 require_once __DIR__.'/../Response/ResponseParser.php';
 use JsonRPC\Response\ResponseParse;
