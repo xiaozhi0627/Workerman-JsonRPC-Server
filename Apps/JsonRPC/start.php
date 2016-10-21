@@ -1,7 +1,7 @@
 <?php
 /**
  * This file is part of workerman.
- *1
+ *
  * Licensed under The MIT License
  * For full copyright and license information, please see the MIT-LICENSE.txt
  * Redistributions of files must retain the above copyright notice.
